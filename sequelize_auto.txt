@@ -1,0 +1,1 @@
+npx sequelize-auto -h localhost  -d piezas  -u postgres -x 1234  -p 5432 -s public  --dialect postgres -o ./src/models  -l esm
